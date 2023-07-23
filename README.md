@@ -1,2 +1,4 @@
 # BharatIntern
-This is my first Internship  Which I have successfully completed .
+This is my  Internship  Project's Which I have successfully made.
+Project 1:- Netflix-Clone (HTML & CSS)
+Project 2:- Temperature-Converter.(HTML, CSS,JS)
